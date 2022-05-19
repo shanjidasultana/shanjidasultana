@@ -9,19 +9,18 @@
 </p>
 
 <br/>
--------------------------
 ### Here are some ideas about me
 
 - 🌱 I'm currently Learning **C Programming**
 - 💻 Most used code-editor `Visual studio Code`
-- 🎯 2022 Goals: **Data Structure & Algorithms**
+- 🎯 2022 Goals: **Data Structure & Algorithms And Data Entry**
 - 🎥 Fun Fact: I love to watching films both bollywood and hollywood.
 - 🔭 Working on Deep Learning any topics.
 - 🌟 Main languages: Html,Javascript,React.
 - 💖 In a complicated relationship with Neural Networks
 - 🎵 Love soul soft and peace music.
 - 📃 My Resume: - [Click Here](https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view)
-<!-- - 📫 My Portfolio: [Moonlight](https://ordinary-porfolio.netlify.app/) -->
+- 📫 My Portfolio: [Moonlight](https://ordinary-porfolio.netlify.app/) 
 ```
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
 
