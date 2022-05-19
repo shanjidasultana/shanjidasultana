@@ -23,7 +23,6 @@
 - 📃 My Resume: - [Click Here](https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view)
 <!-- - 📫 My Portfolio: [Moonlight](https://ordinary-porfolio.netlify.app/) -->
 ```
-<hr>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjidasultana&label=Profile%20views&color=0e75b6&style=flat" alt="shanjidasultana" /> </p>
