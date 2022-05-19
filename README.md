@@ -9,7 +9,9 @@
 </p>
 
 <br/>
+<div display="flex">
 <img align="left" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
 ```
 Here are some ideas about me
 -------------------------
@@ -22,6 +24,7 @@ Here are some ideas about me
 💖  In a complicated relationship with Neural Networks.
 🎵  Love soul soft and peace music.
 ```
+ </div>
 
 
 
