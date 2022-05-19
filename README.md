@@ -3,12 +3,28 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <hr>
-<h3>I am a passionate frontend developer from my homeland Bangladesh.</h3>
+<h3 color="green"  align="center" >I am a passionate frontend developer from my homeland Bangladesh.</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Familiar+with+many+libraries;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <br/>
+I   am shanjidasultana@github
+-------------------------
+### Here are some ideas about me
+
+- 🌱 I'm currently Learning **C Programming**
+- 💻 Most used code-editor `Visual studio Code`
+- 🎯 2022 Goals: **Data Structure & Algorithms**
+- 🎥 Fun Fact: I love to watching films both bollywood and hollywood.
+- 🔭 Working on Deep Learning any topics.
+- 🌟 Main languages: Html,Javascript,React.
+- 💖 In a complicated relationship with Neural Networks
+- 🎵 Love soul soft and peace music.
+- 📃 My Resume: - [Click Here](https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view)
+<!-- - 📫 My Portfolio: [Moonlight](https://ordinary-porfolio.netlify.app/) -->
+```
+<hr>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjidasultana&label=Profile%20views&color=0e75b6&style=flat" alt="shanjidasultana" /> </p>
@@ -18,7 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shanjidasultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shanjidasultana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shanjida sultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanjida sultana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shanjida-sultana-849264227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanjida sultana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user16839806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user16839806" height="30" width="40" /></a>
 <a href="https://fb.com/shanjida sultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanjida sultana" height="30" width="40" /></a>
 <a href="https://dribbble.com/shanjida sultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shanjida sultana" height="30" width="40" /></a>
