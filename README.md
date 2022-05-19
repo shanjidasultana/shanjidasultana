@@ -10,11 +10,7 @@
 
 <br/>
 <img align="left" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
-```
 <p align="right" ><h3>Here are some ideas about me</h3>
--------------------------
 🌱  I'm currently Learning **C Programming**
 💻  Most used code-editor `Visual studio Code`
 🎯  2022 Goals: **Data Structure & Algorithms And Data Entry**
