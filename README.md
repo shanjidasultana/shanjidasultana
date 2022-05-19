@@ -9,7 +9,7 @@
 </p>
 
 <br/>
-<img align="left" src="https://im5.ezgif.com/tmp/ezgif-5-a2232f702f.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found"/>
+<img align="left" src="https://i.ibb.co/8gdxsTK/d4tvukbt5mra37cvwklk-1.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found"/>
 <hr>
 ```
 Here are some ideas about me
