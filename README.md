@@ -10,6 +10,7 @@
 
 <br/>
 <img align="left" src="https://im5.ezgif.com/tmp/ezgif-5-03cf9285d9.webp" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found"/>
+<hr>
 ```
 Here are some ideas about me
 -------------------------
@@ -22,7 +23,7 @@ Here are some ideas about me
 💖  In a complicated relationship with Neural Networks.
 🎵  Love soul soft and peace music.
 ```
-<br/>
+<hr>
 <a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
 📃 My Resume: - [Click Here]
 </a>
