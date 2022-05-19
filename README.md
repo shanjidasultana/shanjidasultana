@@ -3,13 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <hr>
-<h3 color="green"  align="center" >I am a passionate frontend developer from my homeland Bangladesh.</h3>
+<h3 color="green"  align="center" >I am a passionate frontend developer from  Bangladesh.</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Familiar+with+many+libraries;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <br/>
-I   am shanjidasultana@github
 -------------------------
 ### Here are some ideas about me
 
@@ -50,18 +49,3 @@ I   am shanjidasultana@github
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanjidasultana&" alt="shanjidasultana" /></p>
 
-
-<!--
-**shanjidasultana/shanjidasultana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
