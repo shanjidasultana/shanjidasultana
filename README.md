@@ -13,7 +13,7 @@
 <hr>
 
 ```
-Here are some ideas about me
+<p align="right" ><h3>Here are some ideas about me</h3>
 -------------------------
 🌱  I'm currently Learning **C Programming**
 💻  Most used code-editor `Visual studio Code`
@@ -24,7 +24,14 @@ Here are some ideas about me
 💖  In a complicated relationship with Neural Networks.
 🎵  Love soul soft and peace music.
 
-```
+<a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
+📃 My Resume: - [Click Here]
+</a>
+<a href="https://ordinary-porfolio.netlify.app/">
+📫 My Portfolio: [Moonlight]
+</a>
+<p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanjidasultana" alt="shanjidasultana" /></a> </p>
 <h3 align="left">Connect with me:</h3>
