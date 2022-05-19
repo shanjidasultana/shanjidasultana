@@ -14,6 +14,7 @@
 ```
 Here are some ideas about me
 -------------------------
+! text in orange
 🌱  I'm currently Learning **C Programming**
 💻  Most used code-editor `Visual studio Code`
 🎯  2022 Goals: **Data Structure & Algorithms And Data Entry**
