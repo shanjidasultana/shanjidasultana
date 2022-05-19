@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanjida Sultana</h1>
 <h3 align="center">A passionate frontend developer from my homeland Bangladesh.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4560823-Hipster-Chick&psig=AOvVaw3ChPN5DvDVhQgoREzgSjFz&ust=1653023812410000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjBmK7o6vcCFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjidasultana&label=Profile%20views&color=0e75b6&style=flat" alt="shanjidasultana" /> </p>
 
