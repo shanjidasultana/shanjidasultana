@@ -10,7 +10,11 @@
 
 <br/>
 <img align="left" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<p align="right" ><h3>Here are some ideas about me</h3>
+<hr>
+
+```
+Here are some ideas about me
+-------------------------
 🌱  I'm currently Learning **C Programming**
 💻  Most used code-editor `Visual studio Code`
 🎯  2022 Goals: **Data Structure & Algorithms And Data Entry**
@@ -19,14 +23,8 @@
 🌟  Main languages: Html,Javascript,React.
 💖  In a complicated relationship with Neural Networks.
 🎵  Love soul soft and peace music.
+```
 
-<a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
-📃 My Resume: - [Click Here]
-</a>
-<a href="https://ordinary-porfolio.netlify.app/">
-📫 My Portfolio: [Moonlight]
-</a>
-<p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanjidasultana" alt="shanjidasultana" /></a> </p>
@@ -48,4 +46,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanjidasultana&show_icons=true&locale=en" alt="shanjidasultana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanjidasultana&" alt="shanjidasultana" /></p>
-
+<a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
+📃 My Resume: - [Click Here]
+</a>
+<a href="https://ordinary-porfolio.netlify.app/">
+📫 My Portfolio: [Moonlight]
+</a>
