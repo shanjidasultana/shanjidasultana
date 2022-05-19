@@ -9,7 +9,17 @@
 </p>
 
 <br/>
-<h3> Here are some ideas about me </h1>
+<h3> Here are some ideas about me </h1><p align="right">
+🌱 I'm currently Learning **C Programming**
+💻 Most used code-editor `Visual studio Code`
+🎯 2022 Goals: **Data Structure & Algorithms And Data Entry**
+🎥 Fun Fact: I love to watching films both bollywood and hollywood.
+🔭 Working on Deep Learning any topics.
+🌟 Main languages: Html,Javascript,React.
+💖 In a complicated relationship with Neural Networks
+🎵 Love soul soft and peace music.
+📃 My Resume: - [Click Here](https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view)
+📫 My Portfolio: [Moonlight](https://ordinary-porfolio.netlify.app/) </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjidasultana&label=Profile%20views&color=0e75b6&style=flat" alt="shanjidasultana" /> </p>
