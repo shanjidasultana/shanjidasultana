@@ -9,9 +9,7 @@
 </p>
 
 <br/>
-<img align="left" src="https://im5.ezgif.com/tmp/ezgif-5-03cf9285d9.webp" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
+<img align="left" src="https://im5.ezgif.com/tmp/ezgif-5-03cf9285d9.webp" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found"/>
 ```
 Here are some ideas about me
 -------------------------
@@ -24,7 +22,13 @@ Here are some ideas about me
 💖  In a complicated relationship with Neural Networks.
 🎵  Love soul soft and peace music.
 ```
-<hr>
+<br/>
+<a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
+📃 My Resume: - [Click Here]
+</a>
+<a href="https://ordinary-porfolio.netlify.app/">
+📫 My Portfolio: [Moonlight]
+</a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanjidasultana" alt="shanjidasultana" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,9 +48,4 @@ Here are some ideas about me
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanjidasultana&show_icons=true&locale=en" alt="shanjidasultana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanjidasultana&" alt="shanjidasultana" /></p>
-<a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
-📃 My Resume: - [Click Here]
-</a>
-<a href="https://ordinary-porfolio.netlify.app/">
-📫 My Portfolio: [Moonlight]
-</a>
+
