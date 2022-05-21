@@ -25,6 +25,12 @@ Here are some ideas about me
 🎵  Love soul soft and peace music.
 ```
 <hr>
+<a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
+📃 My Resume: - [Click Here]
+</a>
+<a href="https://ordinary-porfolio.netlify.app/">
+📫 My Portfolio: [Moonlight]
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanjidasultana" alt="shanjidasultana" /></a> </p>
 
