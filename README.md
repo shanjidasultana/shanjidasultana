@@ -14,7 +14,7 @@
 ```
 Here are some ideas about me
 -------------------------
-! text in orange
+
 🌱  I'm currently Learning **C Programming**
 💻  Most used code-editor `Visual studio Code`
 🎯  2022 Goals: **Data Structure & Algorithms And Data Entry**
@@ -25,13 +25,9 @@ Here are some ideas about me
 🎵  Love soul soft and peace music.
 ```
 <hr>
-<a href="https://drive.google.com/file/d/1rnALFexaSoLQ9zwgDaEUx_5K-YfnmUJ9/view?usp=sharing">
-📃 My Resume: - [Click Here]
-</a>
-<a href="https://ordinary-porfolio.netlify.app/">
-📫 My Portfolio: [Moonlight]
-</a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanjidasultana" alt="shanjidasultana" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shanjidasultana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shanjidasultana" height="30" width="40" /></a>
